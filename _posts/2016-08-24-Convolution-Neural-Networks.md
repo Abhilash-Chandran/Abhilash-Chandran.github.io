@@ -15,4 +15,4 @@ Why do we need CNN
 * Below is a complex layout of CNN architecture called AlexNet.
 
 
-![A complex layout of AlexNet]({{ site.github.url }}/_images/AlexNet.jpg?raw=true "Alex Network") 
+![A complex layout of AlexNet]({{ site.github.url }}_images/AlexNet.jpg?raw=true "Alex Network") 
