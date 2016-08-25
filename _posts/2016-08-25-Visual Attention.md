@@ -26,5 +26,12 @@ Basic Features for Saliency
 * Motion
 * Orientation
 * Size :P
+ 
+| Overt Attention | Covert Attention |
+| --- | --- |
+| > Direct the eyes to the region of Interest | > direct eyes to ROI without moving your eyes |
+
+
+Read about Scale Spaces Theory in detail.
 
 
