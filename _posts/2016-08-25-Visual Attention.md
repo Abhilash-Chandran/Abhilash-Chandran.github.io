@@ -8,11 +8,12 @@ title: Visual Attention(Day 4)
 
 Attention Types
 ======
-Bottom Up Cues | Top Down Cues
---- | --- 
-Automatic | Influenced by what you know.
-Known as saliency | Known as endogenous or voluntary
-reflexive in nature | motivation based or expectations. Involves context as well.
+
+| Bottom Up Cues | Top Down Cues |
+| --- | --- |
+| Automatic | Influenced by what you know. |
+| Known as saliency | Known as endogenous or voluntary |
+| Reflexive in nature | motivation based or expectations. Involves context as well. |
 
 Guided Search Model. 
 ------
