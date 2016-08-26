@@ -16,3 +16,5 @@ Why do we need CNN
 
 
 ![A complex layout of AlexNet]({{ site.base.url }}/images/AlexNet.jpg "Alex Network") 
+
+![A gif of convolution]({{ site.base.url }}/images/convolution.gif "convolution") 
